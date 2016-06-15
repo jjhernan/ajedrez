@@ -1,0 +1,25 @@
+body {
+    width: 30vw;
+    margin: 10% auto;
+    background-color: black;
+}
+
+.bigsquare {
+    display: flex;
+    border: 5px solid yellow;
+    width: 30vw;
+    height: 30vw;
+}
+
+.square-w {
+    background-color: green;
+    width: 5vw;
+    height: 5vw;
+}
+
+.square-b {
+    background-color: greenyellow;
+    width: 5vw;
+    height: 5vw;
+}
+
